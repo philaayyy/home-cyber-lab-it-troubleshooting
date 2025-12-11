@@ -1,1 +1,2 @@
 # Home-Cyber-Lab-IT-Troubleshooting
+This home lab uses Windows 10 and Ubuntu 24.04 to practice IT troubleshooting, system diagnostics, and basic network analysis. It includes VM setup, DNS troubleshooting, ICMP testing, and full documentation. I built a small IT lab in VirtualBox to learn and practice real entry-level troubleshooting tasks. The project helped me get comfortable with basic troubleshooting, networking commands, and system diagnostics across both Windows and Linux.
